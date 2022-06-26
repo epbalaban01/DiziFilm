@@ -5,10 +5,10 @@
 Kullanıcılar için projenizin hangi sürümlerinin mevcut olduğunu anlatmak için bu bölümü kullanın.
 Aşağıdaki versiyonlarla güvenlik güncellemeleriyle destekleniyor.
 
-| Version | Supported          |
+| Version | Desteklenen Sürüm  |
 | ------- | ------------------ |
-| 2.1.x   | :white_check_mark: |
-| 2.0.x   | :x:                |
+| 2.1.x   | :x:                |
+| 2.0.x   | :white_check_mark: |
 | 1.5.x   | :white_check_mark: |
 | < 1.0   | :x:                |
 
