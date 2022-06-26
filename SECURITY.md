@@ -14,10 +14,10 @@ Aşağıdaki versiyonlarla güvenlik güncellemeleriyle destekleniyor.
 
 ## Güvenlik Açığı Bildirme
 
-Kullanıcılara bir güvenlik açığını nasıl bildireceklerini anlatmak için bu bölümü kullanın.
+<li>Kullanıcılara bir güvenlik açığını nasıl bildireceklerini anlatmak için bu bölümü kullanın.</li>
 
-Yazılım ile ilgili bir güvenlik açığını bildirmek için lütfen epbalaban07@gmail.com adresine e-posta gönderin.
+<li>Yazılım ile ilgili bir güvenlik açığını bildirmek için lütfen epbalaban07@gmail.com adresine e-posta gönderin.</li>
 
-Bir güvenlik açığı bulursanız, sorumlu ifşa uygulamalarına saygı göstermenizi isteyeceğiz.
+<li>Bir güvenlik açığı bulursanız, sorumlu ifşa uygulamalarına saygı göstermenizi isteyeceğiz.</li>
 
-Karşılığında, güvenlik açığı raporlarına 48 saat içinde yanıt vermeye çalışacağız.
+<li>Karşılığında, güvenlik açığı raporlarına 48 saat içinde yanıt vermeye çalışacağız.</li>
