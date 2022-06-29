@@ -1,8 +1,6 @@
 # DiziFilm
 
-[![Build Status](https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main)
-
-https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main
+![Build Status](https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main)
 
 # TCPFileTransfer
 ## TCP Dosya Transfer
