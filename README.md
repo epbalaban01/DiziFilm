@@ -3,7 +3,7 @@
 ![Build Status](https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main)
 
 # Dizi Film Arşiv Otomasyonu
-## Dizi Film Arşiv Otomasyonu
+## Balaban Yazılım
 Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek için kullanılır. Programın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Studio 2017 ortamında C# programlama dili kullanarak geliştirilmiştir.
 
 <b>Desteklenen Diller</b>
