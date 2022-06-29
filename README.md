@@ -1,6 +1,8 @@
 # DiziFilm
 
-[![Build Status](https://travis-ci.org/firateski/TCPFileTransfer.svg?branch=master)](https://travis-ci.org/firateski/TCPFileTransfer)
+[![Build Status](https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main)
+
+https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main
 
 # TCPFileTransfer
 ## TCP Dosya Transfer
