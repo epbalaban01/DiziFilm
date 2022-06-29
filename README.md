@@ -36,11 +36,6 @@ Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek i
 
 |   |   |
 |---|---|
-
-
-
-
-
 | ![Ekran görüntüsü 2022-06-29 085431](https://user-images.githubusercontent.com/42430554/176394373-b704f8ca-67ab-4b4f-b2c0-f343413702a1.png) | ![Ekran görüntüsü 2022-06-29 085446](https://user-images.githubusercontent.com/42430554/176394425-08fa6d9c-ee7a-4d42-b1cb-4e607acacf28.png) |
 | ![Dosya Transfer Uygulaması Ekran Görüntüsü](http://firateski.com/images/file_transfer_img0003.png) | ![Dosya Transfer Uygulaması Ekran Görüntüsü](http://firateski.com/images/file_transfer_img0004.png) |
 | ![Dosya Transfer Uygulaması Ekran Görüntüsü](http://firateski.com/images/file_transfer_img0005.png) | ![Dosya Transfer Uygulaması Ekran Görüntüsü](http://firateski.com/images/file_transfer_img0006.png) |
