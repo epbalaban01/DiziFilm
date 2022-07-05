@@ -24,7 +24,7 @@ Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek i
 
 <b>Eklenebilecek Özellikler</b>
 
-- [ ] Unit testleri yapılabilir. Tabi yapılabilirse...
+- [ ] Unit testleri yapılabilirdi. Tabi yapılabilirse...
 - [ ] Güncelleme işlemleri kolay bir şekilde yapılabilir
 - [ ] Destek paneli bölümde mail ile gönderme eklenebilir.
 - [ ] İngilizce dil eklenebilir.
@@ -48,6 +48,7 @@ Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek i
 | ![Ekran görüntüsü 2022-06-29 090452](https://user-images.githubusercontent.com/42430554/176399506-c7a43086-81a0-4c63-9cf4-5b245e79805f.png) |
 | ![Ekran görüntüsü 2022-06-29 090538](https://user-images.githubusercontent.com/42430554/176399564-41b3d6a7-124b-4851-8d82-9a4d864947af.png) | 
 | ![Ekran görüntüsü 2022-06-29 090610](https://user-images.githubusercontent.com/42430554/176399584-bc043cb0-523a-460d-8d66-75185c898823.png) |
+
 
 #
 <b>Programcıdan Notlar</b>
