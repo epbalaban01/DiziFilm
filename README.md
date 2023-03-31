@@ -1,7 +1,9 @@
 # Dizi Film Arşiv Otomasyonu
 
 ![Build Status](https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main)
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/DiziFilm/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
+<h2>Açıklama</h2>
 Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek için kullanılır. Programın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Studio 2017 ortamında C# programlama dili kullanarak geliştirilmiştir.
 
 <b>Desteklenen Diller</b>
@@ -10,7 +12,7 @@ Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek i
 
 **Not:** İngilizce dili yakında yeni güncelleme de olacaktır.
 
-<b>Özellikler</b>
+<h2>Özellikler</h2>
 
 - [x] Arayüzde ufak değişiklikler yapıldı.
 - [x] Ayarlar paneli ufak bir değişikler yapıldı.
@@ -65,5 +67,3 @@ Dizi veya Filmleriniz izlediklerinizi ya da izlemek istediklerinizi listelemek i
 #
 <b>Programcıdan Notlar</b>
 > <b>Öneriler, istekler ve sorunların varsa lütfen bize ulaşın! :)</b>
-
-> Bu programı yapmamın amacı kullanıcıların excel de dizi/film arşiv listesi yapmak yerine bu programı kullanarak daha kolay yapmak, bu yüzden ben de bu programı yapmak istedim. Eğer tekrar sorun yaşarsanız ya da bize destek olmak istiyorsanız lütfen çekinmeden ulaşın :)
